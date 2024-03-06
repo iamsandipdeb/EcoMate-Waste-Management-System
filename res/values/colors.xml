@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_green">#73ff91</color>
+    <color name="lightest_green">#CCFFCC</color>
+    <color name="very_light_green">#E0FFE0</color>
+    <color name="extremely_light_green">#F5FFF5</color>
+    <color name="nearly_white_green">#FBFFFB</color>
+    <color name="very_pale_green">#F0FFF0</color>
+    <color name="lighte_green">#CCFFCC</color>
+
+
+</resources>
